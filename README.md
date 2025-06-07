@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vidaloi
 - 👀 I’m interested in cloud computing, devops and cybersecurity.
-- 🌱 I’m currently learning java, python, docker.
+- 🌱 I’m currently learning kubernetes, cyber, python, docker, testing stuff.
 - 💞️ I’m looking to collaborate on project for upgrade my skills.
-- 📫 How to reach me ...
+- 📫 How to reach me : message trough github ;)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
